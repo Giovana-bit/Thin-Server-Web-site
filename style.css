@@ -290,6 +290,7 @@ section{
     margin-bottom: 3rem;
     padding: 3rem;
     border-radius: 3rem;
+    color: #ffffff;
     background-color: var(--white);
     box-shadow: var(--box-shadow);
 }
